@@ -27,7 +27,7 @@ CREATE TABLE ClassroomID
 CREATE TABLE Teacher
 (
   TeacherID INT NOT NULL,
-  First_Name INT NOT NULL,
+  First_Name INT NOT NULL, 
   Last_Name INT NOT NULL,
   Title VARCHAR(30) NOT NULL,
   Subjects_Taught VARCHAR(30) NOT NULL,
